@@ -1,0 +1,40 @@
+body{
+text-align:center;
+}
+
+#wrap{
+width:1300px;
+height:920px;
+margin:0 auto;
+text-align:left;
+border:solid 1px #333;
+//background-image:url("C:/Users/雅司/Documents/Web/Resource/23050135.jpg");
+}
+
+#head {
+    padding:15px;
+    color:white;
+    border-bottom:solid 1px #333;
+}
+
+#canvas {
+    height: 450px;
+    width: 450px;
+    
+}
+
+#navi {
+    color:white;
+    border-bottom:solid 1px #333;
+}
+
+.post {
+    color:white;
+    padding:20px;
+}
+
+#foot {
+border-top:solid 1px #333;
+text-align:center;
+padding:30px;
+}
